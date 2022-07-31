@@ -1,0 +1,12 @@
+D:\Proiecte\CD-DVD-Maker\CD-DVD-Maker\bin\Debug\netcoreapp3.1\CD-DVD-Maker.exe
+D:\Proiecte\CD-DVD-Maker\CD-DVD-Maker\bin\Debug\netcoreapp3.1\CD-DVD-Maker.deps.json
+D:\Proiecte\CD-DVD-Maker\CD-DVD-Maker\bin\Debug\netcoreapp3.1\CD-DVD-Maker.runtimeconfig.json
+D:\Proiecte\CD-DVD-Maker\CD-DVD-Maker\bin\Debug\netcoreapp3.1\CD-DVD-Maker.runtimeconfig.dev.json
+D:\Proiecte\CD-DVD-Maker\CD-DVD-Maker\bin\Debug\netcoreapp3.1\CD-DVD-Maker.dll
+D:\Proiecte\CD-DVD-Maker\CD-DVD-Maker\bin\Debug\netcoreapp3.1\CD-DVD-Maker.pdb
+D:\Proiecte\CD-DVD-Maker\CD-DVD-Maker\obj\Debug\netcoreapp3.1\CD-DVD-Maker.AssemblyInfoInputs.cache
+D:\Proiecte\CD-DVD-Maker\CD-DVD-Maker\obj\Debug\netcoreapp3.1\CD-DVD-Maker.AssemblyInfo.cs
+D:\Proiecte\CD-DVD-Maker\CD-DVD-Maker\obj\Debug\netcoreapp3.1\CD-DVD-Maker.csproj.CoreCompileInputs.cache
+D:\Proiecte\CD-DVD-Maker\CD-DVD-Maker\obj\Debug\netcoreapp3.1\CD-DVD-Maker.dll
+D:\Proiecte\CD-DVD-Maker\CD-DVD-Maker\obj\Debug\netcoreapp3.1\CD-DVD-Maker.pdb
+D:\Proiecte\CD-DVD-Maker\CD-DVD-Maker\obj\Debug\netcoreapp3.1\CD-DVD-Maker.genruntimeconfig.cache
