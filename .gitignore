@@ -1,3 +1,8 @@
+#Directories
+CD-DVD-Maker/bin/
+CD-DVD-Maker/obj/
+CD-DVD-Maker/.vs/
+
 # Prerequisites
 *.d
 

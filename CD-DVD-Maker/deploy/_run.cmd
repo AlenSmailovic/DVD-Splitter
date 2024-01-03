@@ -1,0 +1,1 @@
+start /b CD-DVD-Maker.exe "" "E:\Poze_2023" "DVD"

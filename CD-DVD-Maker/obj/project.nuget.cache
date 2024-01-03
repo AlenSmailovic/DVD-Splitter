@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "G0eHNc0Qc6YtCnjpKpYS32URZ9jYY9bBUY4iTrTNqu1KMKb669X3BZ6IjcTsqfaIlWyROADJ33YuCVT9t7SVIw==",
+  "dgSpecHash": "EKAO3g0e+eD+BbYUQux4NNXgg+bAxi2OTgTxO3CL4R3WhM+gc545vJH2oQL/5ORj2L37r3TG3tiBMLh8wTVBkw==",
   "success": true,
-  "projectFilePath": "D:\\Proiecte\\CD-DVD-Maker\\CD-DVD-Maker\\CD-DVD-Maker.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\DVD-Splitter\\CD-DVD-Maker\\CD-DVD-Maker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Smailovic Alen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Smailovic Alen\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Smailovic Alen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Smailovic Alen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

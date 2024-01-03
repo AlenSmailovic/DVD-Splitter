@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proiecte\\CD-DVD-Maker\\CD-DVD-Maker\\CD-DVD-Maker.csproj": {}
+    "E:\\DVD-Splitter\\CD-DVD-Maker\\CD-DVD-Maker.csproj": {}
   },
   "projects": {
-    "D:\\Proiecte\\CD-DVD-Maker\\CD-DVD-Maker\\CD-DVD-Maker.csproj": {
+    "E:\\DVD-Splitter\\CD-DVD-Maker\\CD-DVD-Maker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proiecte\\CD-DVD-Maker\\CD-DVD-Maker\\CD-DVD-Maker.csproj",
+        "projectUniqueName": "E:\\DVD-Splitter\\CD-DVD-Maker\\CD-DVD-Maker.csproj",
         "projectName": "CD-DVD-Maker",
-        "projectPath": "D:\\Proiecte\\CD-DVD-Maker\\CD-DVD-Maker\\CD-DVD-Maker.csproj",
-        "packagesPath": "C:\\Users\\Alen Smailovic\\.nuget\\packages\\",
-        "outputPath": "D:\\Proiecte\\CD-DVD-Maker\\CD-DVD-Maker\\obj\\",
+        "projectPath": "E:\\DVD-Splitter\\CD-DVD-Maker\\CD-DVD-Maker.csproj",
+        "packagesPath": "C:\\Users\\Smailovic Alen\\.nuget\\packages\\",
+        "outputPath": "E:\\DVD-Splitter\\CD-DVD-Maker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alen Smailovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Smailovic Alen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,16 +45,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
