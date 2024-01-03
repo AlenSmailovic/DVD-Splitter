@@ -19,7 +19,7 @@ CD-DVD-Maker/.vs/
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
+# *.dll
 
 # Fortran module files
 *.mod
@@ -32,6 +32,6 @@ CD-DVD-Maker/.vs/
 *.lib
 
 # Executables
-*.exe
+# *.exe
 *.out
 *.app
