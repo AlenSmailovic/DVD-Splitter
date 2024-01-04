@@ -24,3 +24,17 @@ E:\DVD-Splitter\CD-DVD-Maker\obj\Debug\netcoreapp3.1\CD-DVD-Maker.csproj.CoreCom
 E:\DVD-Splitter\CD-DVD-Maker\obj\Debug\netcoreapp3.1\CD-DVD-Maker.dll
 E:\DVD-Splitter\CD-DVD-Maker\obj\Debug\netcoreapp3.1\CD-DVD-Maker.pdb
 E:\DVD-Splitter\CD-DVD-Maker\obj\Debug\netcoreapp3.1\CD-DVD-Maker.genruntimeconfig.cache
+E:\GitHub\DVD-Splitter\CD-DVD-Maker\bin\Debug\netcoreapp3.1\CD-DVD-Maker.exe
+E:\GitHub\DVD-Splitter\CD-DVD-Maker\bin\Debug\netcoreapp3.1\CD-DVD-Maker.deps.json
+E:\GitHub\DVD-Splitter\CD-DVD-Maker\bin\Debug\netcoreapp3.1\CD-DVD-Maker.runtimeconfig.json
+E:\GitHub\DVD-Splitter\CD-DVD-Maker\bin\Debug\netcoreapp3.1\CD-DVD-Maker.runtimeconfig.dev.json
+E:\GitHub\DVD-Splitter\CD-DVD-Maker\bin\Debug\netcoreapp3.1\CD-DVD-Maker.dll
+E:\GitHub\DVD-Splitter\CD-DVD-Maker\bin\Debug\netcoreapp3.1\CD-DVD-Maker.pdb
+E:\GitHub\DVD-Splitter\CD-DVD-Maker\obj\Debug\netcoreapp3.1\CD-DVD-Maker.csproj.AssemblyReference.cache
+E:\GitHub\DVD-Splitter\CD-DVD-Maker\obj\Debug\netcoreapp3.1\CD-DVD-Maker.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DVD-Splitter\CD-DVD-Maker\obj\Debug\netcoreapp3.1\CD-DVD-Maker.AssemblyInfoInputs.cache
+E:\GitHub\DVD-Splitter\CD-DVD-Maker\obj\Debug\netcoreapp3.1\CD-DVD-Maker.AssemblyInfo.cs
+E:\GitHub\DVD-Splitter\CD-DVD-Maker\obj\Debug\netcoreapp3.1\CD-DVD-Maker.csproj.CoreCompileInputs.cache
+E:\GitHub\DVD-Splitter\CD-DVD-Maker\obj\Debug\netcoreapp3.1\CD-DVD-Maker.dll
+E:\GitHub\DVD-Splitter\CD-DVD-Maker\obj\Debug\netcoreapp3.1\CD-DVD-Maker.pdb
+E:\GitHub\DVD-Splitter\CD-DVD-Maker\obj\Debug\netcoreapp3.1\CD-DVD-Maker.genruntimeconfig.cache

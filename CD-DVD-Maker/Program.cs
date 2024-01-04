@@ -5,6 +5,7 @@ namespace CD_DVD_Maker
 {
     class Program
     {
+        const long DVL = 4089446400;    // 3.9 Gb
         const long DVD = 4508876800;    // 4.3 Gb
         const long CD = 681574400;      // 650 Mb
         static void Main(string[] args)
@@ -14,6 +15,8 @@ namespace CD_DVD_Maker
 
             long SIZE = DVD;
             if (args[2] == "CD") SIZE = CD;
+            if (args[2] == "DVD") SIZE = DVD;
+            if (args[2] == "DVL") SIZE = DVL;
 
             DirectoryInfo d = new DirectoryInfo(folderName);
             FileInfo[] Files = d.GetFiles("*.*");

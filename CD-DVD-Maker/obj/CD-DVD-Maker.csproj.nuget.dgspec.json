@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DVD-Splitter\\CD-DVD-Maker\\CD-DVD-Maker.csproj": {}
+    "E:\\GitHub\\DVD-Splitter\\CD-DVD-Maker\\CD-DVD-Maker.csproj": {}
   },
   "projects": {
-    "E:\\DVD-Splitter\\CD-DVD-Maker\\CD-DVD-Maker.csproj": {
+    "E:\\GitHub\\DVD-Splitter\\CD-DVD-Maker\\CD-DVD-Maker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DVD-Splitter\\CD-DVD-Maker\\CD-DVD-Maker.csproj",
+        "projectUniqueName": "E:\\GitHub\\DVD-Splitter\\CD-DVD-Maker\\CD-DVD-Maker.csproj",
         "projectName": "CD-DVD-Maker",
-        "projectPath": "E:\\DVD-Splitter\\CD-DVD-Maker\\CD-DVD-Maker.csproj",
+        "projectPath": "E:\\GitHub\\DVD-Splitter\\CD-DVD-Maker\\CD-DVD-Maker.csproj",
         "packagesPath": "C:\\Users\\Smailovic Alen\\.nuget\\packages\\",
-        "outputPath": "E:\\DVD-Splitter\\CD-DVD-Maker\\obj\\",
+        "outputPath": "E:\\GitHub\\DVD-Splitter\\CD-DVD-Maker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Smailovic Alen\\AppData\\Roaming\\NuGet\\NuGet.Config",

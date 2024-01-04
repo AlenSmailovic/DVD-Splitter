@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EKAO3g0e+eD+BbYUQux4NNXgg+bAxi2OTgTxO3CL4R3WhM+gc545vJH2oQL/5ORj2L37r3TG3tiBMLh8wTVBkw==",
+  "dgSpecHash": "0y5dBvl4rZCybFwFCocJtuf7M8eRswZwgdbHgJ6Rw8MHEi9MIAXWbnjkiNgq73tAdU6WZk34w2iy2u3xSS1L/A==",
   "success": true,
-  "projectFilePath": "E:\\DVD-Splitter\\CD-DVD-Maker\\CD-DVD-Maker.csproj",
+  "projectFilePath": "E:\\GitHub\\DVD-Splitter\\CD-DVD-Maker\\CD-DVD-Maker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Smailovic Alen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\Smailovic Alen\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
